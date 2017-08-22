@@ -1,0 +1,2 @@
+void alterarValor(int *n);
+
